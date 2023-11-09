@@ -1,0 +1,5 @@
+pandas
+xlwt
+email-to
+colorama
+openpyxl
